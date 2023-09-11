@@ -15,7 +15,9 @@
     
       "options_page": "options.html",
     
-      "permissions": ["storage"]
+      "permissions": ["storage"],
     
-    
+      "chrome_url_overrides": {
+        "newtab": "history.html"
+      }
 }
