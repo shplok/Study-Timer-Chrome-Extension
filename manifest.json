@@ -1,0 +1,21 @@
+{
+    "manifest_version": 3,
+    "name": "Study Timer",
+    "version": "1.0",
+
+
+    "description": "An extension with the sole goal of promoting a healthy and effective study environment!",
+ 
+
+    "author": "linkedin.com/sawyerbowerman",
+
+    "action": {
+        "default_popup": "popup.html"
+      },
+    
+      "options_page": "options.html",
+    
+      "permissions": ["storage"]
+    
+    
+}
